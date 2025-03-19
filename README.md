@@ -13,3 +13,6 @@ Tech Stack:
 
 XML + Kotlin + Firebase.  
 
+
+OUTPUT:
+
